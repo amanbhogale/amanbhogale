@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#"Exploring the frontiers of modern physics and AI with a logical and stoic approach - specializing in theoretical physics, neural networks, and quantum computing."
+
 <!--
 **amanbhogale/amanbhogale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
