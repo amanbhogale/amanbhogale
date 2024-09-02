@@ -13,6 +13,13 @@ Hey there! I’m Aman Bhogale,AI enthusiast from Goa, India. When I’m not lost
 - **🧠 Skills:** Deep Learning (CNN, RNN, ANN, LSTM, Transformers), Critical Thinking, Problem Solving, Rational Thinking, Causal Analysis, Scientific Method
 - **🎨 Interests:** Geopolitics, Philosophy, History, Chess, Sketching, and Reading Classics—if it’s intellectually stimulating or creatively fun, I’m all in.
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbhogale&show_icons=true)
+
+## 📊 Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhogale&layout=compact)
 
 ---
 
