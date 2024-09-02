@@ -8,7 +8,7 @@ Hey there! I’m Aman Bhogale,AI enthusiast from Goa, India. When I’m not lost
 
 ### 🚀 Skills & Interests
 
-- **💻 Languages:** Python, C, SQL
+- **💻 Languages:** Python, C/C++, SQL
 - **🌐 Technologies:** TensorFlow, PyTorch, LangChain
 - **🧠 Skills:** Deep Learning (CNN, RNN, ANN, LSTM, Transformers), Critical Thinking, Problem Solving, Rational Thinking, Causal Analysis, Scientific Method
 - **🎨 Interests:** Geopolitics, Philosophy, History, Chess, Sketching, and Reading Classics—if it’s intellectually stimulating or creatively fun, I’m all in.
