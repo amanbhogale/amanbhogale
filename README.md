@@ -3,7 +3,7 @@
 
 ### 👋 Introduction
 
-Hey there! I’m Aman Bhogale,AI enthusiast from Goa, India. When I’m not lost in the complexities of neural networks, I’m probably pondering the meaning of life (existentialism has its perks, right?). I like to think of myself as a techie with a philosophical twist—because why not contemplate the nature of existence while debugging code.
+Hey there! I’m Aman Bhogale,AI enthusiast from India. When I’m not lost in the complexities of neural networks, I’m probably pondering the meaning of life (existentialism has its perks, right?). I like to think of myself as a techie with a philosophical twist—because why not contemplate the nature of existence while debugging code.
 
 
 ### 🚀 Skills & Interests
