@@ -3,7 +3,7 @@
 
 ### 👋 Introduction
 
-Hey there! I’m Aman Bhogale,AI enthusiast from India. When I’m not lost in the complexities of neural networks, I’m probably pondering the meaning of life (existentialism has its perks, right?). I like to think of myself as a techie with a philosophical twist—because why not contemplate the nature of existence while debugging code.
+Hey there! I’m Aman Bhogale,AI enthusiast from India.
 
 
 ### 🚀 Skills & Interests
@@ -11,7 +11,7 @@ Hey there! I’m Aman Bhogale,AI enthusiast from India. When I’m not lost in t
 - **💻 Languages:** Python, C/C++, SQL.
 - **🌐 Technologies:** TensorFlow, PyTorch, LangChain.
 - **🧠 Skills:** Deep Learning (CNN, RNN, ANN, LSTM, Transformers), Critical Thinking, Problem Solving, Rational Thinking, Causal Analysis, Scientific Method.
-- **🎨 Interests:** Geopolitics, Philosophy, History, Chess, Sketching, and Reading Classics—if it’s intellectually stimulating or creatively fun, I’m all in.
+- **🎨 Interests:** Geopolitics, Philosophy, History, Chess, Sketching, and Reading Classics.
 
 ## 📈 GitHub Stats
 
