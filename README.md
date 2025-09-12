@@ -19,7 +19,8 @@ Hey there! I’m Aman Bhogale,AI enthusiast from India.
 
 ## 📊 Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhogale&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhogale&layout=donut)](https://github.com/amanbhogale/github-readme-stats)
+
 
 ---
 
