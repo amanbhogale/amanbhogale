@@ -15,11 +15,12 @@ Hey there! I’m Aman Bhogale,AI enthusiast from India.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbhogale&show_icons=true)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanbhogale&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhogale&layout=donut)](https://github.com/amanbhogale/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhogale&langs_count=8)
+
 
 
 ---
