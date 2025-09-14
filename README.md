@@ -1,12 +1,12 @@
 
 ---
 
-### 👋 Introduction
+###  Introduction
 
 Hey there! I’m Aman Bhogale,AI enthusiast from India.
 
 
-### 🚀 Skills & Interests
+### Skills & Interests
 
 - **💻 Languages:** Python, C/C++, SQL.
 - **🌐 Technologies:** TensorFlow, PyTorch, LangChain.
